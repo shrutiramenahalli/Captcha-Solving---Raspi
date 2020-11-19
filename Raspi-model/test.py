@@ -1,4 +1,4 @@
-#import tflite_runtime.interpreter as tflite
+import tflite_runtime.interpreter as tflite
 from PIL import Image
 import numpy as np
 import string
